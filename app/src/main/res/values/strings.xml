@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ATL Heroes</string>
+    <string name="mapbox_access_token">MAPBOX_ACCESS_TOKEN</string>
 </resources>
